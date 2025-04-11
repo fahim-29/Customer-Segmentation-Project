@@ -1,3 +1,9 @@
+## 📊 Bar Chart Analysis
+
+![Bar Chart](visuals/visuals/Bar.png)
+
+
+
 # Customer Segmentation Using K-Means Clustering
 
 This project performs customer segmentation using K-Means clustering on e-commerce transactional data to identify unique customer personas for targeted marketing.
