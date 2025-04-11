@@ -2,6 +2,30 @@
 
 ![Bar Chart](visuals/visuals/Bar.png)
 
+## 🔍 Cluster Overview
+
+![Cluster Overview](visuals/visuals/Clusters%20(1).png)
+
+## 📌 Correlation Heatmap
+
+![Correlation](visuals/visuals/Correlation.png)
+
+## 📈 Distribution Plot
+
+![Distribution](visuals/visuals/Dis.png)
+
+## 🟦 Histogram
+
+![Histogram](visuals/visuals/Histo.png)
+
+## ⚠️ Outlier Detection
+
+![Outliers](visuals/visuals/Outliers.png)
+
+## 🔝 Top 30 Most Purchased Items
+
+![Top 30 Items](visuals/visuals/Top_30.png)
+
 
 
 # Customer Segmentation Using K-Means Clustering
