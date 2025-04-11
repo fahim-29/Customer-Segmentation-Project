@@ -51,11 +51,11 @@ Sourced from an open dataset, each row represents a unique customer with numeric
 ![Bar Chart](visuals/visuals/Bar.png)
 
 
-### 📊 Cluster Visualization
-![Clusters](visuals/visuals/CustomerClusters.png)
+## 🔍 Cluster Overview
 
-### 🔍 Pairplot Analysis
-![Pairplot](visuals/visuals/Pairplot.png)
+![Cluster Overview](visuals/visuals/Clusters%20(1).png)
+
+
 
 ### 🧬 Correlation Heatmap
 ![Correlation](visuals/visuals/Correlation.png)
