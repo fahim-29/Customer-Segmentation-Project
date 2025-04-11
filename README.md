@@ -28,6 +28,20 @@ This project performs customer segmentation using K-Means clustering on e-commer
 - Add dashboard using Streamlit
 - Expand with demographic data
 
+
+
+## 📉 Elbow Method
+Used to determine the optimal number of clusters.
+![Elbow Method](visuals/ElbowMethod.png)
+
+## 📊 Cluster Visualization
+Visualizing customer segments using K-Means clustering.
+![Customer Clusters](visuals/CustomerClusters.png)
+
+## 🔍 Pairplot Analysis
+Pairplot to explore feature relationships before clustering.
+![Pairplot](visuals/Pairplot.png)
+
 ---
 
 🔗 Connect with me on LinkedIn:    www.linkedin.com/in/fahim-ahmad-a31571213
