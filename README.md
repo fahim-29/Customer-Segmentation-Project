@@ -92,7 +92,9 @@ Sourced from an open dataset, each row represents a unique customer with numeric
 
 ## 🤝 Let's Connect
 
-If you found this project interesting or have suggestions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fahim29) or explore more projects on [GitHub](https://github.com/fahim-29).
+If you found this project interesting or have suggestions, feel free to connect with me on [LinkedIn]:  www.linkedin.com/in/fahim-ahmad-a31571213
+
+ or explore more projects on [GitHub]:  https://github.com/fahim-29/Customer-Segmentation-Project/edit/main/README.md
 
 
 
